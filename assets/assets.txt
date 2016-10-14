@@ -1,0 +1,2 @@
+Aqui iran los assets que voy a usar en el juego. esto lo escribo 
+localmente y despues lo voy a subir a github.
